@@ -1,5 +1,7 @@
 # ProjetocomNootbookLMDIO.
 Projeto para uma atividade do bootcamp Bradesco - GenAI &amp; Dados do DIO.
+link: https://notebooklm.google.com/notebook/1dd5310f-1520-48a2-9a78-abd632be8343
+
 Objetivo: Criar um auxiliador para empreendedores para iniciar de forma estruturada o seu próprio negocio.
 
 Fontes de Vídeo:
@@ -50,4 +52,4 @@ Listei os links na plataforma NotebookLM alterando o nome para "Auxiliador de Pe
 
 Além disso, com essa base de dados posso estudar as teorias que listei na base. 
 
-link: https://notebooklm.google.com/notebook/1dd5310f-1520-48a2-9a78-abd632be8343
+
